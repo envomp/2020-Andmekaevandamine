@@ -25,7 +25,7 @@ Ent klastrid polnud perfektsed: `apriori.exe -tc input.txt output.txt` (Address{
 - 3 (44.4444)
 - 2 (55.5556)
 
-Nagu näha, siis oli kummalisi kombinisatsioone. Näiteks: `apriori.exe -tc input.txt output.txt -s0.01` (Address{n})
+Nagu näha, siis oli kummalisi kombinisatsioone. (Address{n})
 - 8 11 (33.3333)
 - 8 11 3 (11.1111)
 
